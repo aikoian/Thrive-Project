@@ -31,7 +31,7 @@ Como Usar:
  - (Opcional) Configure o Google Colab com sua API Key.
  - Execute o script Python.
  - Siga as instruções do menu interativo.
- - 
+
 Contribuições:
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
